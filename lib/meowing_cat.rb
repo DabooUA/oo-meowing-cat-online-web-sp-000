@@ -7,5 +7,3 @@ attr_accessor :name
   end
 
 end
-
-maru.meow
